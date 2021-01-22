@@ -196,6 +196,18 @@ img {
         padding: 76px 20px 51px;
     }
 
+    .works-gallary-list:nth-child(2) {
+        display: none;
+    }
+
+    .works-gallary-list:nth-child(3) {
+        display: none;
+    }
+
+    .works-gallary-list:nth-child(6) {
+        display: none;
+    }
+
     .works-gallary-list {
         width: 100%;
         padding-top: 24px;
